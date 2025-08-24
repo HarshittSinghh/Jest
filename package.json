@@ -1,0 +1,15 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Harshit",
+  "license": "MIT",
+  "description": "",
+  "dependencies": {
+    "hest": "^1.0.5",
+    "jest": "^30.0.5"
+  }
+}
